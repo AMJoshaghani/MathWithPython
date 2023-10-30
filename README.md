@@ -1,4 +1,5 @@
 # MathWithPython
+![Banner](docs/banner.gif)
 Some math problems are better left for computers to solve!
 Here I have done such a thing. 
 
