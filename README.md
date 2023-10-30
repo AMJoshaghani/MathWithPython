@@ -1,5 +1,5 @@
 # MathWithPython
-<div style="text-align:center"><img src="docs/banner.gif" /></div>
+<p style="text-align:center"><img align='center' width='512' height='512' src="docs/banner.gif" /></p>
 Some math problems are better left for computers to solve!
 Here I have done such a thing. 
 
