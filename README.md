@@ -1,7 +1,6 @@
 # MathWithPython
-<p style="text-align:center"><img align='center' width='512' height='512' src="docs/banner.gif" /></p>
 Some math problems are better left for computers to solve!
-Here I have done such a thing. 
+<p align='center'><img align='center' width='512' height='512' src="docs/banner.gif" /></p>
 
 # List
 - Collatz Conjecture: [Collatz.py](https://github.com/AMJoshaghani/MathWithPython/blob/main/src/Collatz.py)
