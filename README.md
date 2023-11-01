@@ -1,6 +1,6 @@
 # MathWithPython
 Some math problems are better left for computers to solve!
-<p align='center'><img align='center' width='512' height='512' src="docs/Math with Python.png" /></p>
+<p align='center'><img align='center' width='256' height='256' src="docs/Math with Python.png" /></p>
 
 # List
 - Collatz Conjecture: [Collatz.py](https://github.com/AMJoshaghani/MathWithPython/blob/main/src/Collatz.py)
